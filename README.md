@@ -120,4 +120,3 @@ The output looks this:
 |ExtraTreesClassifier         |     0.993     |      0.002   |
 
 *The winner is: ExtraTreesClassifier with score 0.993.*
-
